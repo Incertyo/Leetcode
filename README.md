@@ -36,13 +36,6 @@ leetcode-java/
 
 ---
 
-## 🚀 How to Run a Solution
-```bash
-cd src/<question_number>
-javac Solution.java
-java Solution
-
-
 ## 📦 Progress So Far
 | 🔢 Problem # | Status   |
 |-------------|----------|
