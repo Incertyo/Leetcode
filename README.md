@@ -1,4 +1,4 @@
-# 🚀 LeetCode Java Solutions – by [Your Name] ☕
+# 🚀 LeetCode Java Solutions – by [G Jaganmohan Achary] ☕
 
 Welcome to my **Java-only** LeetCode grind repo.  
 All solutions are organized by **question number only** inside the `src/` folder. No fluff — just clean, efficient code 🧠🔥
